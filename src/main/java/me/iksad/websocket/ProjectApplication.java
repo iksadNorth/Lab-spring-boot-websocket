@@ -1,4 +1,4 @@
-package me.iksad.project;
+package me.iksad.websocket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
